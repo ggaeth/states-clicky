@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "Arkansas",
+    "image": "assets/images/arkansas.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 1,
+    "name": "California",
+    "image": "assets/images/cali.png",
+    "isClicked": false
+  },
+  {
+    "id": 2,
+    "name": "Florida",
+    "image": "assets/images/florida.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 3,
+    "name": "Idaho",
+    "image": "assets/images/idaho.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 4,
+    "name": "Kansas",
+    "image": "assets/images/kansas.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 5,
+    "name": "Maine",
+    "image": "assets/images/maine.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 6,
+    "name": "Missouri",
+    "image": "assets/images/missouri.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 7,
+    "name": "Nebraska",
+    "image": "assets/images/nebraska.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 8,
+    "name": "South Carolina",
+    "image": "assets/images/southc.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 9,
+    "name": "Tennessee",
+    "image": "assets/images/tenne.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 10,
+    "name": "Texas",
+    "image": "assets/images/texas.png",
+    "isClicked": false
+  },
+  {
+    "id": 11,
+    "name": "Virginia",
+    "image": "assets/images/virginia.jpg",
+    "isClicked": false
+  }
+]
